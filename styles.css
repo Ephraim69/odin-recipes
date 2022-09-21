@@ -1,0 +1,64 @@
+body {
+	background-color: rgb(5, 13, 34);
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	background-color: rgb(13, 34, 87);
+	color: rgb(255, 255, 255);
+}
+
+ul {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 1.2rem;
+}
+
+.recipe {
+	color:white;
+	font-size: 1.2rem;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+img {
+	display: block;
+	height:auto;
+	width: 300px;
+	margin:auto;
+	border-style:double;
+	border-width: 5px;
+	border-color: rgba(53, 81, 141, 0.589);
+	box-shadow: 0px 0px 30px rgba(71, 177, 190, 0.438);
+}
+
+
+
+.desc h2 {
+	background-color: rgba(2, 14, 39, 0.452);
+}
+
+div.imgbox1 {
+	display: inline-block;
+	text-align: center;
+	width: 49%;
+}
+div.imgbox2 {
+	display: inline-block;
+	text-align: center;
+	width: 49%;
+}
+
+.imgbox1 img {
+	height: auto;
+	width: 10rem;
+}
+
+.imgbox2 img {
+	height: auto;
+	width: 10rem;
+}
+
+.imgbox {
+	width: 60%;
+	margin:auto;
+}
